@@ -1,5 +1,5 @@
 <H2>Core components of Linux :</H2>
-Hardware : This is the physical component where hardware is. 
+<b></b>Hardware : This is the physical component where hardware is. </br>
 Kernel : This is the heart of linux system. Linus korwald code written in C. It interacts with the hardware and take the shell commands
 Shell : Shell is an interactive way to interact with kernel. Shell commands interact with Kernal i.e giving instructions to kernal to perform operations.
 GUI : Graphical user interface for visual interaction.
