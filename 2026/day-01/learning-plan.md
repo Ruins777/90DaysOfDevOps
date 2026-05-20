@@ -1,4 +1,4 @@
-My understanding of DevOps
+<H2>My understanding of DevOps</H2>
 Devops is a culture where Development and Operations meet together. Before Devops their was a silos where processes were very slow. If production had any issues the team gets notified very late because of sync issues like working on my machine and not your machine.
 But due to Devops the process has become very smooth as little changes are deployed to production and blame game as everybody is in sync
 
